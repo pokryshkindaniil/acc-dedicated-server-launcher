@@ -47,7 +47,7 @@ No more hand-editing JSON files. Configure your server, manage presets, watch li
 ## Running from Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/acc-server-launcher.git
+git clone https://github.com/pokryshkindaniil/acc-server-launcher.git
 cd acc-server-launcher
 pip install PyQt6
 python acc_launcher.py
