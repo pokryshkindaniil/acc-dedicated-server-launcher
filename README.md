@@ -4,7 +4,7 @@ A clean, dark-themed GUI launcher for the **Assetto Corsa Competizione Dedicated
 
 No more hand-editing JSON files. Configure your server, manage presets, watch live logs, and check network status — all from one window.
 
-![Dark theme screenshot placeholder](docs/screenshot_dark.png)
+![Dark theme screenshot placeholder](docs/darktheme.png)
 
 ---
 
